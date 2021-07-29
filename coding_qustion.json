@@ -1,0 +1,1492 @@
+{
+    "data": [
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
+            "text": "Given an unsorted array A of size N that contains only\u00a0non-negative integers, find a continuous sub-array which adds to a given number S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-index/0",
+            "text": "Given an array A[] of N positive integers. The task is to\u00a0find the maximum of j - i subjected to the constraint of A[i] <= A[j].\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers/0",
+            "text": "Given an array A containing 2*N+2 positive\u00a0numbers, out of which 2*N numbers exist in\u00a0pairs\u00a0whereas\u00a0the other two number\u00a0occur exactly once and are distinct. Find the other two numbers."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-valid-parentheses/0",
+            "text": "Given a string S consisting of opening and closing parenthesis '(' and ')'. Find length of the longest valid parenthesis substring."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0",
+            "text": "Given a positive number X. Find the largest Jumping Number smaller than or equal to X.\u00a0\nJumping Number: A number is called Jumping Number if all adjacent digits in it differ by only 1. All single digit numbers are considered as Jumping Numbers. For example 7, 8987 and 4343456 are Jumping numbers but 796 and 89098 are not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
+            "text": "Given a binary tree, connect the nodes that are at same level. You'll be given an addition\u00a0nextRight\u00a0pointer for the same."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+            "text": "Given a Binary Search Tree (BST) and a range l-h(inclusive), count the number of nodes in the BST that lie in the given range. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            "text": "Design a data structure that works like a LRU Cache. Here cap\u00a0denotes\u00a0the capacity of the cache and Q denotes the number of queries. Query can be of two types:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+            "text": "Given three strings A, B and C your task is to complete the\u00a0function isInterleave which\u00a0returns true if\u00a0C is an interleaving of A and B else returns false.\nString C is said to be interleaving A and B, if it contains all characters of A and B and order of all characters in individual strings is preserved."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+            "text": "Given an array of integers. Check whether it contains a triplet that sums up to zero.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "text": "Suppose you have N eggs and you want to determine from which floor\u00a0in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
+            "text": "Given a string A and a dictionary of n words B, find out if A\u00a0can be segmented into a space-separated sequence of dictionary words.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+            "text": "Given a binary tree, find out whether it\u00a0contains a duplicate sub-tree of size two\u00a0or more, or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-largest-word-in-dictionary/0",
+            "text": "Given a string and a string dictionary, find the longest string in the dictionary that can be formed by deleting some characters of the given string. If there are more than one possible results, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/number-of-subsets-and-mean/0",
+            "text": "Let Max be the maximum possible mean of a multiset of values obtained from an array Arr of length N. Let Min be the minimum possible mean of a multiset of values obtained from the same array. Note that in a multiset values may repeat. The task is to find the number of multisets with mean as Max and the number of multisets with mean as Min. The answer may be too large so output the number of multisets modulo 109+7. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
+            "text": "Given an unsorted array A of size N that contains only\u00a0non-negative integers, find a continuous sub-array which adds to a given number S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0",
+            "text": "Given two unsorted arrays A of size N and B of size M of distinct elements, the task is to find all pairs from both arrays whose sum is equal to X."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/total-decoding-messages/0",
+            "text": "A top secret message containing letters from A-Z is being encoded to numbers using the following mapping:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
+            "text": "Given a dictionary of distinct words and an M x N board where every cell has one character. Find all possible words from the dictionary that can be formed by a sequence of adjacent characters on the board. We can move to any of 8 adjacent characters, but a word should not have multiple instances of the same cell."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0",
+            "text": "Given N\u00a0activities with their start and finish day given in array start[ ] and end[ ]. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a given day.\nNote :\u00a0Duration of the activity includes both starting and ending day."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1",
+            "text": "Given a binary tree, find its minimum depth."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/implement-strstr/1",
+            "text": "Your task is to implement the function strstr. The function takes two strings as\u00a0arguments (s,x) and\u00a0\u00a0locates the occurrence of the string x\u00a0in the string s.\u00a0The function returns and integer denoting the first occurrence of the string x in s (0 based indexing)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/multiply-two-strings/1",
+            "text": "Given two numbers as stings s1 and s2. Calculate their Product."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/k-palindrome/1",
+            "text": "A string is k palindrome if it can be\u00a0transformed\u00a0into a palindrome on removing at most k characters from it. Your task is to complete the function is_k_palin which takes two\u00a0arguments a string str and a number N . Your function should return true if the string is k palindrome else it should return false.\n\nInput:\nThe first line of input is an integer T denoting the number of test cases . Then T test cases follow . Each test case \u00a0contains a string str and an integer N separated by space. \u00a0\n\nOutput:\nThe output will be 1 if the string is \u00a0k palindrome else 0 .\n\nConstraints:\n1<=T<=100\n1<=length of str<=100\n1<=N<=20\n\nExample:\nInput\n2\nabcdecba\u00a01\nacdcb\u00a0\u00a01\nOutput\n1\n0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+            "text": "Given an array of integers. Check whether it contains a triplet that sums up to zero.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/largest-fibonacci-subsequence/0",
+            "text": "Given an array with positive number the task to find the largest subsequence from array that contain elements which are\u00a0Fibonacci numbers."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/decode-the-pattern/0",
+            "text": "Given an integer n.\u00a0Return\u00a0the nth row of the following look-and-say pattern.\n1\n11\n21\n1211\n111221"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1",
+            "text": "Given an integer n, your task is to complete the function convertToRoman which prints\u00a0the corresponding roman number of n. Various symbols and their values are given below."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/convert-ternary-expression-to-binary-tree/1",
+            "text": "Given a string that contains ternary expressions. The expressions may be nested. You need to convert the given ternary expression to a binary Tree and return the root."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+            "text": "Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
+            "text": "Given an array of N positive integers, print k largest elements from the array.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+            "text": "Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/special-stack/1",
+            "text": "Design a data-structure SpecialStack\u00a0that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+            "text": "Given two numbers represented by two linked lists of size N and M. The task is to return a sum list. The sum list is a linked list representation of the addition of two input numbers from the last."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/stock-span-problem/0",
+            "text": "The stock span problem is a financial problem where we have a series of n daily price quotes for a stock and we need to calculate the span of stock\u2019s price for all n days.\u00a0\nThe span Si of the stock\u2019s price on a given day i is defined as the maximum number of consecutive days just before the given day, for which the price of the stock on the current day is less than or equal to its price on the given day.\nFor example, if an array of 7 days prices is given as {100, 80, 60, 70, 60, 75, 85}, then the span values for corresponding 7 days are {1, 1, 1, 2, 1, 4, 6}."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+            "text": "Given an array arr[ ] of size N having distinct elements, the\u00a0task is to find the next greater element for each element of the array in order of their appearance in the array.\r\nNext greater element of an element in the array is the nearest element on the right which is greater than the current element.\r\nIf there does not exist next greater of current element, then next greater element for current element is -1. For example, next greater of the last element is always -1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/edit-distance/0",
+            "text": "Given two strings s\u00a0and t. Find the minimum number of operations that need to be performed on str1 to convert it to str2. The possible operations are:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0",
+            "text": "Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0",
+            "text": "Given an array arr of N integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a2\u00a0+ b2\u00a0= c2, otherwise false."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1",
+            "text": "Given a Binary Tree, find the vertical traversal of it starting from the leftmost level to the rightmost level.\r\nIf there are multiple nodes passing through a vertical line, then they should be printed as they appear in level order traversal of the tree."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+            "text": "Given a binary tree, find its level order traversal.\nLevel order traversal of a tree is breadth-first traversal for the tree."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+            "text": "Given two strings S and P. Find the smallest window in the S consisting of all the characters of P."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "text": "Given a grid\u00a0consisting of '0's(Water)\u00a0and '1's(Land). Find the number of islands.\nNote: An\u00a0island\u00a0is surrounded by water and is formed by connecting adjacent lands horizontally or vertically or diagonally i.e., in all 8 directions.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes such that it may contain a loop. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            "text": "Given a binary tree. Check whether it is a BST or not.\nNote: We are considering that BSTs can not contain duplicate Nodes."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
+            "text": "Given a boolean expression S\u00a0of length N with following symbols.\nSymbols\n\u00a0\u00a0\u00a0 'T' ---> true\n\u00a0\u00a0\u00a0 'F' ---> false\nand following operators filled between symbols\nOperators\n\u00a0\u00a0\u00a0 &\u00a0\u00a0 ---> boolean AND\n\u00a0\u00a0\u00a0 |\u00a0\u00a0 ---> boolean OR\n\u00a0\u00a0\u00a0 ^\u00a0\u00a0 ---> boolean XOR\nCount the number of ways we can parenthesize the expression so that the value of expression evaluates to true."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0",
+            "text": "Given a list\u00a0of non negative integers, arrange them in such a manner\u00a0that they form the largest number possible.The result is going to be very large, hence return the result in the form of a string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            "text": "Design a data structure that works like a LRU Cache. Here cap\u00a0denotes\u00a0the capacity of the cache and Q denotes the number of queries. Query can be of two types:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1",
+            "text": "Given a Binary Tree, you need to find the maximum value which you can get by subtracting the value of node B from the value of node A, where A and B are two nodes of the binary tree and A is an ancestor of B.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/key-pair/0",
+            "text": "Given an array Arr of N positive integers and another number X. Determine whether or not there exist two elements in Arr whose sum is exactly X."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-3/0",
+            "text": "Given a binary number, Find,\u00a0if given binary number is a multiple of 3.\u00a0The given number can be big upto 2^10000. It is recommended to finish the task using one traversal of input binary string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "text": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
+            "text": "Given an array of size\u00a0N-1\u00a0such that it only contains distinct integers in the range of\u00a01\u00a0to N. Find the missing element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
+            "text": "Given an array A of N elements. Find the majority element in the array.\u00a0A majority element in an array A of size N is an element that appears more than N/2 times in the array.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
+            "text": "Given a sorted and rotated array A of N distinct elements which is rotated at some point, and given an element key. The task is to find the index of the given element key in the array A."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            "text": "Given a binary tree. Check whether it is a BST or not.\nNote: We are considering that BSTs can not contain duplicate Nodes."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
+            "text": "Given a binary tree and an integer S, check whether there is root to leaf path with its sum as S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1",
+            "text": "Given a singly linked list, your task is to remove every kth\u00a0node from the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1",
+            "text": "Given two linked lists of size N and M, which are sorted in non-decreasing order. The task is to merge them in such a way that the resulting list is in decreasing order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-even-length-substring/0",
+            "text": "For given string \u2018str\u2019 of digits, find length of the longest substring of \u2018str\u2019, such that the length of the substring is 2k digits and sum of left k digits is equal to the sum of right k digits.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
+            "text": "Given an array of N positive integers, print k largest elements from the array.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+            "text": "Given a Binary Tree, convert it into its mirror.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1",
+            "text": "Given two binary trees, the task is to find if both of them are identical or not.\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
+            "text": "Given a sorted and rotated array A of N distinct elements which is rotated at some point, and given an element key. The task is to find the index of the given element key in the array A."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem/0",
+            "text": "Given an array\u00a0arr[] of size\u00a0N, check if\u00a0it can be partitioned into two parts such that the sum of elements in both parts\u00a0is the same."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+            "text": "Given a String\u00a0S, reverse the\u00a0string without reversing its\u00a0individual words. Words are separated by\u00a0dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+            "text": "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+            "text": "Given an array of N integers arr[] where each element represents the max number of steps that can be made forward from that element. Find\u00a0the minimum number of jumps to reach the end of the array (starting from the first element).\u00a0If an element is 0, then you cannot move through that element.\nNote: Return -1 if you can't reach the end of the array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            "text": "Given a binary tree. Check whether it is a BST or not.\nNote: We are considering that BSTs can not contain duplicate Nodes."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
+            "text": "Given a binary tree and an integer S, check whether there is root to leaf path with its sum as S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1",
+            "text": "Given a Binary Tree. Return\u00a01\u00a0if, for every node X\u00a0in the tree other than the\u00a0leaves, its value is equal to the sum of its left subtree's value and its right subtree's value. Else return 0."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
+            "text": "Complete the function to find spiral order traversal of a tree. For below tree, function should return 1, 2, 3, 4, 5, 6, 7.\n\n\n\u00a0\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+            "text": "Given a Binary Tree, find\u00a0Right view of it. Right view of a Binary Tree is set of nodes visible when tree is viewed from right side."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+            "text": "Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists).\nNote: Try not to use extra space. Expected time complexity is O(N). The nodes are arranged in a sorted way."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
+            "text": "Given Pointer/Reference to the head of the linked list, the task is to Sort the given linked list using Merge Sort.\nNote:\u00a0If the length of linked list is odd, then the\u00a0extra node should go in the first list while splitting."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/set-bits/0",
+            "text": "Given a positive integer N, print count of set bits in it.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+            "text": "You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Note that we have only one quantity of each item.\nIn other words, given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or don\u2019t pick it (0-1 property)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0",
+            "text": "Given a matrix mat[][] of size N\u00a0x\u00a0M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+            "text": "Given a non-negative integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2x for some x.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/palindrome/0",
+            "text": "Given an integer, check whether it is a palindrome or not.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
+            "text": "Given a binary tree and an integer S, check whether there is root to leaf path with its sum as S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/binary-search/1",
+            "text": "Given a sorted array of size N and an integer K, find the position at which K is present in the array using binary search."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+            "text": "Implement a Queue using Linked List.\u00a0\nA Query\u00a0Q\u00a0is of 2 Types\n(i)\u00a01 x\u00a0 \u00a0(a query of this type means\u00a0\u00a0pushing\u00a0'x'\u00a0into the queue)\n(ii)\u00a02 \u00a0 \u00a0 (a query of this type means to pop an element from the queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
+            "text": "Given a binary tree, connect the nodes that are at same level. You'll be given an addition\u00a0nextRight\u00a0pointer for the same."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes such that it may contain a loop. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+            "text": "Implement a Stack\u00a0using two queues\u00a0q1\u00a0and\u00a0q2."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            "text": "Implement a Queue using 2 stacks s1 and s2 .\nA Query Q is of 2 Types\n(i) 1 x (a query of this type means\u00a0\u00a0pushing 'x' into the queue)\n(ii) 2 \u00a0 (a query of this type means to pop\u00a0element from queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+            "text": "Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists).\nNote: Try not to use extra space. Expected time complexity is O(N). The nodes are arranged in a sorted way."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0",
+            "text": "Given a matrix mat[][] of size N\u00a0x\u00a0M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/first-repeating-element/0",
+            "text": "Given an array arr[] of size n, find the first repeating element. The element should occurs more than once and the index of its first occurrence should be the smallest."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
+            "text": "Given an array A of N elements. Find the majority element in the array.\u00a0A majority element in an array A of size N is an element that appears more than N/2 times in the array.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
+            "text": "Given a sorted and rotated array A of N distinct elements which is rotated at some point, and given an element key. The task is to find the index of the given element key in the array A."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0",
+            "text": "Given 2 sorted arrays Ar1 and Ar2 of size N each. Merge the given arrays and find the sum of the two middle elements\u00a0of the merged array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
+            "text": "Given a string S consisting of lowercase Latin Letters. Find the first non-repeating character in S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "text": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+            "text": "Given two lists sorted in increasing order, create a new list representing the intersection of the two lists. The new list should be made with its own memory \u2014 the original lists should not be changed."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to check if the\u00a0linked list has a loop. Linked list can contain\u00a0self loop."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1",
+            "text": "Given a Binary Tree of size N, find all the nodes which don't have any sibling. Root node can not have a sibling."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/two-mirror-trees/1",
+            "text": "Given a Two Binary Trees, write a function that returns true if one is mirror of other, else returns false.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+            "text": "Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0",
+            "text": "Trie is an efficient information retrieval data structure. Use this data structure to store Strings and search strings. Your task is to use TRIE data structure and search the given string A. If found print 1 else 0."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            "text": "Implement a Queue using 2 stacks s1 and s2 .\nA Query Q is of 2 Types\n(i) 1 x (a query of this type means\u00a0\u00a0pushing 'x' into the queue)\n(ii) 2 \u00a0 (a query of this type means to pop\u00a0element from queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+            "text": "Implement a Stack\u00a0using two queues\u00a0q1\u00a0and\u00a0q2."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "text": "Given a grid\u00a0consisting of '0's(Water)\u00a0and '1's(Land). Find the number of islands.\nNote: An\u00a0island\u00a0is surrounded by water and is formed by connecting adjacent lands horizontally or vertically or diagonally i.e., in all 8 directions.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0",
+            "text": "Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0",
+            "text": "Given a matrix mat[][] of size N\u00a0x\u00a0M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
+            "text": "Given a dictionary of distinct words and an M x N board where every cell has one character. Find all possible words from the dictionary that can be formed by a sequence of adjacent characters on the board. We can move to any of 8 adjacent characters, but a word should not have multiple instances of the same cell."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0",
+            "text": "Given a positive number X. Find the largest Jumping Number smaller than or equal to X.\u00a0\nJumping Number: A number is called Jumping Number if all adjacent digits in it differ by only 1. All single digit numbers are considered as Jumping Numbers. For example 7, 8987 and 4343456 are Jumping numbers but 796 and 89098 are not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/transform-string/0",
+            "text": "Given two strings A and B. Find the minimum number of steps required to transform string A into string B. The only allowed operation for the transformation is selecting a character from string A and inserting it in the beginning of string A."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+            "text": "Given an\u00a0incomplete Sudoku\u00a0configuration in terms of a 9 x 9 \u00a02-D square matrix (grid[][]), the task to find a solved Sudoku. For simplicity, you may assume\u00a0that there will be only one unique solution.\n\nSample Sudoku for you to get the logic for its solution:\n\n"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-nth-root-of-m/0",
+            "text": "You are given 2 numbers (n\u00a0, m); the task is to find n\u221am\u00a0(nth root of m).\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0",
+            "text": "Given an array of integers and a number k, write a function that returns true if given array can be divided into pairs such that sum of every pair is divisible by k.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0",
+            "text": "Given a matrix M of size n * n, the task is to\u00a0find sum of the zigzag sequence with the largest sum. A zigzag sequence starts from the top and ends at the bottom. Two consecutive elements of sequence cannot belong to same column."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0",
+            "text": "Consider a big party where N guests came to it and a log register for guest\u2019s entry and exit times was\u00a0maintained. Find the minimum time at which there were maximum guests at the party. Note that entries in the register are not in any order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
+            "text": "Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-path-sum/1",
+            "text": "Given a binary tree in which each node element contains a number. Find the maximum possible sum from one leaf node to another leaf node."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximize-dot-product/0",
+            "text": "Given two arrays A and B of positive integers of size N and M where N >= M, the task is to maximize the dot product by inserting zeros in the second array but you cannot disturb the order of elements.\n\nDot Product of array A and B of size N is A[0]*B[0] + A[1]*B[1]+....A[N]*B[N]."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/excel-sheet/0",
+            "text": "Given a positive integer N, return\u00a0its corresponding column title as it would appear in an Excel sheet.\nFor N =1 we have column A, for 27 we have AA and so on."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/probability-of-knight/0",
+            "text": "Given an NxN chessboard and a Knight at position (x, y). The Knight has to take exactly K steps, where at each step it chooses any of the 8 directions uniformly at random. Find\u00a0the probability that the Knight remains in the chessboard after taking K steps, with the condition that it can\u2019t enter the board again once it leaves it.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+            "text": "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            "text": "Given a string S. The task is to print all permutations of a given string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0",
+            "text": "Given an unsorted array arr[] of size N, rotate it by D elements (clockwise).\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
+            "text": "Given a string S consisting of lowercase Latin Letters. Find the first non-repeating character in S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0",
+            "text": "Given a positive integer n, find the nth fibonacci number.\u00a0Since the answer can be very large, return\u00a0the answer modulo 1000000007.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+            "text": "Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to check if the\u00a0linked list has a loop. Linked list can contain\u00a0self loop."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            "text": "Implement a Queue using 2 stacks s1 and s2 .\nA Query Q is of 2 Types\n(i) 1 x (a query of this type means\u00a0\u00a0pushing 'x' into the queue)\n(ii) 2 \u00a0 (a query of this type means to pop\u00a0element from queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0",
+            "text": "Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, \u2026N} is missing and one number 'B' occurs twice in array. Find these two numbers."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
+            "text": "Given a BST\u00a0and an integer. Find the least absolute difference between any node value of the BST and the given integer."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
+            "text": "Given a singly linked list, find if the linked list is circular or not.\u00a0A linked list is called circular if it not NULL terminated and all nodes are connected in the form of a cycle. An empty linked list is considered as circular."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-the-string/0",
+            "text": "You are given a string s. You need to reverse the string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+            "text": "Given a String\u00a0S, reverse the\u00a0string without reversing its\u00a0individual words. Words are separated by\u00a0dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "text": "Suppose you have N eggs and you want to determine from which floor\u00a0in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+            "text": "Given an input stream of A of n\u00a0characters consisting only of lower case alphabets. The task is to find the first non repeating character, each time a character is inserted to the stream. If there is no such character then append '#' to the answer.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+            "text": "Given an input stream of N integers. The task is to insert these numbers into a new stream and find the median of the stream formed by each insertion of X to the new stream."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/largest-prime-factor/0",
+            "text": "Given a number N, the task is to find the largest prime factor of that number.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/form-coils-in-a-matrix/0",
+            "text": "Given a positive integer n that represents dimensions of a 4n x 4n matrix with values from 1 to 4*n*4*n filled from left to right and top to bottom. Your task is to form two coils from matrix and print the coils."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
+            "text": "Given a dictionary of distinct words and an M x N board where every cell has one character. Find all possible words from the dictionary that can be formed by a sequence of adjacent characters on the board. We can move to any of 8 adjacent characters, but a word should not have multiple instances of the same cell."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/largest-product-pallindrome/0",
+            "text": "Given a value N, find out the largest palindrome number which is product of two N-digit numbers.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/surpasser-count/0",
+            "text": "An element Y is said to be the surpasser of element X if it is a greater element on the right of X. ie, if X = arr[i] and Y = arr[j], i<j and Arr[i] < Arr[j].\u00a0\r\nGiven an array of size N containing distinct integers, find the number of surpassers for each of its elements."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/return-two-prime-numbers/0",
+            "text": "Given an even number N (greater than 2), return two prime numbers whose sum will be equal to given number. There are several combinations possible. Print only the pair whose\u00a0minimum value is the\u00a0smallest among all the minimum values of pairs."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+            "text": "Given a stack, the task is to sort\u00a0it such that the top of the stack has the greatest\u00a0element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+            "text": "Given an array of size n\u00a0and a range [a, b]. The task is to partition the array around the range such that array is divided into three parts.\n1) All elements smaller than a come first.\n2) All elements in range a to b come next.\n3) All elements greater than b appear in the end.\nThe individual elements of three sets can appear in any order. You are required to return the modified array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            "text": "Design a data structure that works like a LRU Cache. Here cap\u00a0denotes\u00a0the capacity of the cache and Q denotes the number of queries. Query can be of two types:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1",
+            "text": "Serialization is to store a tree in an array\u00a0so that it can be later restored and\u00a0Deserialization is reading tree back from the array. Now your task is to complete the function serialize which stores the tree into an array A[ ] and deSerialize which deserializes\u00a0the array to tree and returns it.\nNote:\u00a0The structure of tree must be maintained."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
+            "text": "Given a Cirular Linked List of size N, split it into two halves circular lists.\u00a0If there are odd number of nodes in the given circular linked list then out of the resulting two halved lists, first\u00a0list should have\u00a0one\u00a0node more than the second\u00a0list. The resultant lists should also be circular lists and not linear lists."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+            "text": "Given three strings A, B and C your task is to complete the\u00a0function isInterleave which\u00a0returns true if\u00a0C is an interleaving of A and B else returns false.\nString C is said to be interleaving A and B, if it contains all characters of A and B and order of all characters in individual strings is preserved."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0",
+            "text": "Given an array Arr\u00a0of size N\u00a0containing\u00a0positive integers. Find the maximum sum of a subsequence such that no two numbers in the sequence should be adjacent in the array. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/count-squares/0",
+            "text": "Consider a sample space S consisting of all perfect squares starting from 1, 4, 9 and so on. You are given a number N, you have to output the number of integers less than N in the sample space S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0",
+            "text": "Given a string of characters, find the length of the longest proper prefix which is also a proper suffix."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/n-queen-problem/0",
+            "text": "The n-queens puzzle is the problem of placing n queens on a\u00a0(n\u00d7n) chessboard such that no two queens can\u00a0attack each other.\nGiven an integer n, find all distinct solutions to the n-queens puzzle. Each solution contains distinct board configurations of the n-queens\u2019 placement, where the solutions are\u00a0a permutation of [1,2,3..n] in increasing order, here\u00a0the number in the ith\u00a0place denotes\u00a0that the ith-column queen is\u00a0placed in the row with that number. For eg below figure represents a chessboard [3 1 4 2].\n\n"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/coin-change/0",
+            "text": "Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM\u00a0} valued coins. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            "text": "Given a string S. The task is to print all permutations of a given string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0",
+            "text": "The cost of stock on each day is given in an array A[] of size N. Find all the days on which you buy and sell the stock so that in between those days your profit is maximum.\nNote: There may be multiple possible solutions. Return any one of them. Any correct solution will result in an output of 1, whereas wrong solutions will result in an output of 0.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
+            "text": "Given a string S, find the longest palindromic substring in S. Substring of string S: S[ i . . . . j ]\u00a0where 0\u00a0\u2264 i\u00a0\u2264 j < len(S). Palindrome string: A string which reads the same backwards. More formally, S is palindrome if reverse(S) = S. Incase of conflict, return the substring which occurs first ( with the least starting index)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represented-as-arrays/0",
+            "text": "Given two numbers represented by two different arrays A and B. The task is to find the sum array. The sum array is an array representation of addition of two input arrays."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/max-sum-submatrix/0",
+            "text": "Given a matrix of size NxM and a list of queries containing (a,b) pairs. Find the maximum sum among all (a x b) sub-matrices of the matrix.\u00a0\nNote: The rows and columns of the submatrix must be contiguous. For example:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
+            "text": "Given a 2D matrix M of dimensions RxC. Find the maximum sum subarray in it."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
+            "text": "Given a binary tree and an integer S, check whether there is root to leaf path with its sum as S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+            "text": "Given a Binary Tree with all unique values and two nodes value\u00a0n1 and n2. The task is to find the lowest\u00a0common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present.\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
+            "text": "Complete the function to find spiral order traversal of a tree. For below tree, function should return 1, 2, 3, 4, 5, 6, 7.\n\n\n\u00a0\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+            "text": "Implement a Stack\u00a0using two queues\u00a0q1\u00a0and\u00a0q2."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+            "text": "Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+            "text": "Given an array of positive integers. Find the length of the longest sub-sequence such that elements in the subsequence are consecutive integers, the consecutive numbers can be in any order.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+            "text": "Given a number K and string str of digits denoting a positive integer, build the largest number possible by performing swap operations on the digits of str at most\u00a0K times."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
+            "text": "Given an array of N positive integers, print k largest elements from the array.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
+            "text": "Given a string A and a dictionary of n words B, find out if A\u00a0can be segmented into a space-separated sequence of dictionary words.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-highest-occurring-digit-in-prime-numbers-in-a-range/0",
+            "text": "Given a range\u00a0L\u00a0to\u00a0R, the task is to find the highest occurring digit in prime numbers which lie between L and R (both inclusive). If multiple digits have same highest frequency return\u00a0the largest of them. If no prime number occurs between L and R, return\u00a0-1.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0",
+            "text": "The task\u00a0is to count all the possible paths from top left to bottom right of a m\u00a0X\u00a0n matrix with the constraints that\u00a0from each cell you can either move only to right or down.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+            "text": "Given arrival and departure times of all trains that reach a railway station. Find the minimum number of platforms required for the railway station so that no train is kept waiting.\r\nConsider that all the trains arrive on the same day and leave on the same day. Arrival and departure time can never\u00a0be the same for a train\u00a0but we can have arrival time of one train equal to departure time of the other.\u00a0At any\u00a0given instance of time, same platform can not be used for both departure of a train and arrival of another train.\u00a0In such cases,\u00a0we need different platforms."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+            "text": "Given an expression string x. Examine whether the pairs and the orders of \u201c{\u201c,\u201d}\u201d,\u201d(\u201c,\u201d)\u201d,\u201d[\u201c,\u201d]\u201d are correct in exp.\nFor example, the function should return 'true' for exp = \u201c[()]{}{[()()]()}\u201d and 'false' for exp = \u201c[(])\u201d."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            "text": "Design a data structure that works like a LRU Cache. Here cap\u00a0denotes\u00a0the capacity of the cache and Q denotes the number of queries. Query can be of two types:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/josephus-problem/1",
+            "text": "Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle in a fixed direction."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+            "text": "Given below is a binary tree. The task is to print the top view of binary tree. Top view of a binary tree is the set of nodes visible when the tree is viewed from the top. For the given below tree"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1",
+            "text": "Given two linked lists, the task is to complete the function findIntersection(),\u00a0that returns the intersection\u00a0of two linked lists. Each of the two linked list contains distinct node values."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+            "text": "Given a sorted dictionary of an alien language having N words and\u00a0k starting alphabets of standard dictionary. Find the order of characters in the alien language.\nNote:\u00a0Many orders may be\u00a0possible for a particular test case, thus\u00a0you may return any valid order and\u00a0output will be 1 if the order of string returned by the function is correct else 0 denoting incorrect string returned.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes such that it may contain a loop. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1",
+            "text": "Given two strings\u00a0'str' and a wildcard pattern 'pattern' of length N and M respectively,\u00a0 You have to print '1' if the wildcard pattern is matched with str\u00a0else print\u00a0'0' .\n\nThe wildcard pattern can include the characters \u2018?\u2019 and \u2018*\u2019\n\u2018?\u2019 \u2013 matches any single character\n\u2018*\u2019 \u2013 Matches any sequence of characters (including the empty sequence)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+            "text": "Given an array of integers, find the length of the longest (strictly) increasing subsequence from the\u00a0given array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+            "text": "Given an array arr[ ] of size N having distinct elements, the\u00a0task is to find the next greater element for each element of the array in order of their appearance in the array.\r\nNext greater element of an element in the array is the nearest element on the right which is greater than the current element.\r\nIf there does not exist next greater of current element, then next greater element for current element is -1. For example, next greater of the last element is always -1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            "text": "Given a string S. The task is to print all permutations of a given string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-greater-number-set-digits/0",
+            "text": "Given a number n, find the smallest number that has same set of digits as n and is greater than n.\u00a0If n\u00a0is the greatest possible number with its set of digits, report it."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
+            "text": "Given a binary tree and an integer S, check whether there is root to leaf path with its sum as S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to check if the\u00a0linked list has a loop. Linked list can contain\u00a0self loop."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            "text": "Given a Binary Tree, print Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function leftView(), which accepts root of the tree as argument."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+            "text": "Implement a Queue using Linked List.\u00a0\nA Query\u00a0Q\u00a0is of 2 Types\n(i)\u00a01 x\u00a0 \u00a0(a query of this type means\u00a0\u00a0pushing\u00a0'x'\u00a0into the queue)\n(ii)\u00a02 \u00a0 \u00a0 (a query of this type means to pop an element from the queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "text": "Suppose you have N eggs and you want to determine from which floor\u00a0in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/unique-bsts/0",
+            "text": "Given an integer. Find how many structurally unique binary search trees are there that stores the\u00a0values from 1 to that integer (inclusive).\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+            "text": "You are given two numbers A and B. The task is\u00a0to count the number of bits needed to be flipped to convert A to B.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+            "text": "Your task is to implement\u00a0\u00a02 stacks in one array efficiently."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1",
+            "text": "You are given a pointer/ reference to the node which is to be deleted from the\u00a0linked list of N\u00a0nodes. The task is to delete the node. Pointer/ reference to head node is not given.\u00a0\nNote: No head reference is given to you. It is\u00a0guaranteed\u00a0that the node to be deleted is\u00a0not a tail node\u00a0in the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+            "text": "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+            "text": "Given a String\u00a0S, reverse the\u00a0string without reversing its\u00a0individual words. Words are separated by\u00a0dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+            "text": "Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0",
+            "text": "Given an array Arr\u00a0of size N\u00a0containing\u00a0positive integers. Find the maximum sum of a subsequence such that no two numbers in the sequence should be adjacent in the array. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+            "text": "Given a Binary Tree, convert it into its mirror.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+            "text": "Given a Linked List of size N, where every node represents a sub-linked-list and contains two pointers:\n(i) a next pointer to the next node,\n(ii) a\u00a0bottom\u00a0pointer\u00a0to a linked list where this node is head.\nEach of the\u00a0sub-linked-list is in sorted order.\nFlatten the Link List such that all the nodes appear in a single level while maintaining the sorted order.\u00a0\nNote: The flattened list will be printed using the bottom pointer instead of next pointer."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+            "text": "Given a binary tree, find if it is height balanced or not.\u00a0\nA tree is height balanced if difference between heights of left and right subtrees is not more than one for all nodes of tree.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "text": "Given a grid\u00a0consisting of '0's(Water)\u00a0and '1's(Land). Find the number of islands.\nNote: An\u00a0island\u00a0is surrounded by water and is formed by connecting adjacent lands horizontally or vertically or diagonally i.e., in all 8 directions.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/coin-change/0",
+            "text": "Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM\u00a0} valued coins. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/0",
+            "text": "Given an array A[] of N\u00a0positive integers which can contain integers from 1\u00a0to P\u00a0where elements can be repeated or can be absent from the array. Your task is to count the frequency of all elements from 1\u00a0to N."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/row-with-max-1s/0",
+            "text": "Given a boolean 2D array of n x m dimensions where each row is sorted. Find\u00a0the\u00a00-based index of the first row\u00a0that has\u00a0the maximum number of 1's."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+            "text": "Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "text": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
+            "text": "Given an array of size\u00a0N-1\u00a0such that it only contains distinct integers in the range of\u00a01\u00a0to N. Find the missing element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+            "text": "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0",
+            "text": "Given a matrix mat[][] of size N\u00a0x\u00a0M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            "text": "Given a Binary Tree, print Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function leftView(), which accepts root of the tree as argument."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+            "text": "Given a Binary Tree, convert it into its mirror.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
+            "text": "Given a binary tree, connect the nodes that are at same level. You'll be given an addition\u00a0nextRight\u00a0pointer for the same."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/k-distance-from-root/1",
+            "text": "Given a Binary Tree of size N and an integer\u00a0K. Print all nodes that are at distance k from root (root is considered at distance 0 from itself). Nodes should be printed from left to right. If k is more that height of tree, nothing should be printed."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
+            "text": "Complete the function to find spiral order traversal of a tree. For below tree, function should return 1, 2, 3, 4, 5, 6, 7.\n\n\n\u00a0\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
+            "text": "Given a string S consisting of lowercase Latin Letters. Find the first non-repeating character in S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "text": "Given a grid\u00a0consisting of '0's(Water)\u00a0and '1's(Land). Find the number of islands.\nNote: An\u00a0island\u00a0is surrounded by water and is formed by connecting adjacent lands horizontally or vertically or diagonally i.e., in all 8 directions.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0",
+            "text": "Given a string\u00a0str\u00a0and another string\u00a0patt. Find the character in\u00a0patt\u00a0that is present at the minimum index in\u00a0str. If no character of\u00a0patt\u00a0is present in\u00a0str\u00a0then print \u2018No character present\u2019."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-difference/0",
+            "text": "Given array A[] of integers, the task is to complete the function findMaxDiff\u00a0which finds the maximum absolute difference between nearest left and right smaller element of every element in array.If the element is the\u00a0leftmost element, nearest smaller element on left side is considered as 0. Similarly if the element is the\u00a0rightmost elements, smaller element on right side is considered as 0."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0",
+            "text": "Given a sorted array arr[] of size N. Find the element that appears only once in the array. All other elements appear exactly twice.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0",
+            "text": "Given a boolean matrix of size RxC where each cell contains either\u00a00 or 1, modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its ith row and jth column will become 1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "text": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+            "text": "You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Note that we have only one quantity of each item.\nIn other words, given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or don\u2019t pick it (0-1 property)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+            "text": "Given an array of integers. Find the Inversion Count in the array.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed/0",
+            "text": "Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1\u2019s. Output your answer modulo 10^9 + 7."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
+            "text": "You are given N\u00a0elements\u00a0and your task is to Implement a Stack in which you can get minimum element in O(1) time."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            "text": "Given a Binary Tree, print Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function leftView(), which accepts root of the tree as argument."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+            "text": "Given two numbers represented by two linked lists of size N and M. The task is to return a sum list. The sum list is a linked list representation of the addition of two input numbers from the last."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
+            "text": "Given a binary tree, connect the nodes that are at same level. You'll be given an addition\u00a0nextRight\u00a0pointer for the same."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sum-of-dependencies-in-a-graph/0",
+            "text": "Given a directed graph with V\u00a0nodes and E edges. If there is an edge from u to v then u depends on v. Find out the sum of dependencies for every node. Duplicate edges should be counted as separate\u00a0edges."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0",
+            "text": "Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
+            "text": "Given a binary tree of size N, find its reverse level order traversal. ie- the traversal must begin from the last level. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            "text": "Implement a Queue using 2 stacks s1 and s2 .\nA Query Q is of 2 Types\n(i) 1 x (a query of this type means\u00a0\u00a0pushing 'x' into the queue)\n(ii) 2 \u00a0 (a query of this type means to pop\u00a0element from queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1",
+            "text": "Given a Binary Tree, find the maximum width of it.\u00a0Maximum width is defined as the maximum number of nodes in any level.\nFor example, maximum width of following tree is 4 as there are 4 nodes at 3rd level."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+            "text": "Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/bleak-numbers/0",
+            "text": "Given an integer, check whether it is Bleak or not. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+            "text": "Given a String\u00a0S, reverse the\u00a0string without reversing its\u00a0individual words. Words are separated by\u00a0dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-spaces/0",
+            "text": "Given a string, remove spaces from it.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/second-largest/0",
+            "text": "Given an array Arr of size N, print second largest element from an array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number/0",
+            "text": "Given two positive numbers X and Y, check if Y is a power of X or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
+            "text": "You are given N\u00a0elements\u00a0and your task is to Implement a Stack in which you can get minimum element in O(1) time."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+            "text": "Given a directed\u00a0graph. The task is to do Breadth First Traversal of this graph starting from 0.\nNote: One can move from node u\u00a0to node v\u00a0only if there's an edge from u\u00a0to v and find the BFS traversal of the graph starting from the 0th vertex,\u00a0from left to right according to the graph. Also, you should only take nodes directly or indirectly connected from Node 0 in consideration."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+            "text": "Given an input stream of N integers. The task is to insert these numbers into a new stream and find the median of the stream formed by each insertion of X to the new stream."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/quick-sort/1",
+            "text": "Quick Sort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot.\nGiven an array arr[], its starting position low and its ending position high."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/gcd-of-array/0",
+            "text": "Given an array of N positive integers, find GCD of all the array elements."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lcm-and-gcd/0",
+            "text": "Given two numbers A and B. The task is to find out their LCM and GCD."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/heap-sort/1",
+            "text": "Given an array of size N. The task is to sort the array elements by completing functions heapify() and buildHeap() which are used to implement Heap Sort."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/bubble-sort/1",
+            "text": "Given an Integer N and a list arr. Sort the array using bubble sort algorithm.\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+            "text": "Given two sequences, find the length of longest subsequence present in both of them. Both\u00a0the strings are of uppercase."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-index/0",
+            "text": "Given an array A[] of N positive integers. The task is to\u00a0find the maximum of j - i subjected to the constraint of A[i] <= A[j].\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/array-to-bst/0",
+            "text": "Given a sorted array. Convert it into a Height balanced\u00a0Binary Search Tree (BST).\nHeight balanced BST means a binary tree in which the depth of the two subtrees of every node never differ by more than 1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "text": "Suppose you have N eggs and you want to determine from which floor\u00a0in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+            "text": "Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            "text": "Given a binary tree. Check whether it is a BST or not.\nNote: We are considering that BSTs can not contain duplicate Nodes."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to check if the\u00a0linked list has a loop. Linked list can contain\u00a0self loop."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/run-length-encoding/1",
+            "text": "Given a string, Your task is to\u00a0\u00a0complete the\u00a0function encode that returns the run length encoded\u00a0string for the given\u00a0string.\neg\u00a0if the input string is \u201cwwwwaaadexxxxxx\u201d, then the function should return \u201cw4a3d1e1x6\u2033.\nYou are required to complete the function encode that takes only one argument the string which is to be encoded and returns the encoded string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+            "text": "Given a binary tree, find its height."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/infix-to-postfix/0",
+            "text": "Given an infix expression in the form of string str. Convert this infix expression to postfix expression."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+            "text": "Given a Binary Tree, find diameter of it.\nThe diameter of a tree is the number of nodes on the longest path between two end nodes in the tree. The diagram below shows two trees each with diameter nine, the leaves that form the ends of a longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+            "text": "Given a Binary Tree, convert it into its mirror.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0",
+            "text": "Given a boolean matrix of size RxC where each cell contains either\u00a00 or 1, modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its ith row and jth column will become 1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
+            "text": "Given an array of size\u00a0N-1\u00a0such that it only contains distinct integers in the range of\u00a01\u00a0to N. Find the missing element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+            "text": "Given a String\u00a0S, reverse the\u00a0string without reversing its\u00a0individual words. Words are separated by\u00a0dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            "text": "Given a string S. The task is to print all permutations of a given string."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/array-to-bst/0",
+            "text": "Given a sorted array. Convert it into a Height balanced\u00a0Binary Search Tree (BST).\nHeight balanced BST means a binary tree in which the depth of the two subtrees of every node never differ by more than 1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/set-bits/0",
+            "text": "Given a positive integer N, print count of set bits in it.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+            "text": "Given a binary tree, find its level order traversal.\nLevel order traversal of a tree is breadth-first traversal for the tree."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+            "text": "Given a weighted, undirected and connected graph of V vertices and E edges. The task is to find the sum of weights of the edges of the\u00a0Minimum Spanning Tree."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/does-array-represent-heap/0",
+            "text": "Given an array A of size N, the task is\u00a0to check if the given array represents a Binary Max Heap."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0",
+            "text": "Given an input stream arr[] of n integers. Find the Kth largest element for each element in the stream and if the\u00a0Kth\u00a0element doesn't exist, return -1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/thief-try-to-excape/0",
+            "text": "A thief trying to escape from a jail has to cross N\u00a0walls whose heightd are given in\u00a0arr[] each with varying heights. He climbs X feet every time. But, due to the slippery nature of those walls, every times he slips back by Y\u00a0feet. \u00a0Now the task is to calculate the total number of jumps required to cross all walls and escape from the jail."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+            "text": "Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/insertion-sort/1",
+            "text": "The task is to complete the\u00a0insert() function which is used to implement Insertion Sort. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/bubble-sort/1",
+            "text": "Given an Integer N and a list arr. Sort the array using bubble sort algorithm.\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
+            "text": "Given a String\u00a0S, reverse the\u00a0string without reversing its\u00a0individual words. Words are separated by\u00a0dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0",
+            "text": "Given two rectangles, find if the given two rectangles overlap or not. A rectangle is denoted by providing the x and y coordinates of two points: the left top corner and the right bottom corner of the rectangle. Two rectangles sharing a side are considered overlapping. (L1 and R1 are the extreme points of the first rectangle and L2 and R2 are the extreme points of the second rectangle)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number/0",
+            "text": "Given a positive integer, return its corresponding column title as appear in an Excel sheet.\nExcel columns has a pattern like A, B, C, \u2026 ,Z, AA, AB, AC,\u2026. ,AZ, BA, BB, \u2026 ZZ, AAA, AAB \u2026.. etc. In other words, column 1 is named as \u201cA\u201d, column 2 as \u201cB\u201d, column 27 as \u201cAA\u201d and so on."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
+            "text": "Given a string S consisting of lowercase Latin Letters. Find the first non-repeating character in S."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/total-decoding-messages/0",
+            "text": "A top secret message containing letters from A-Z is being encoded to numbers using the following mapping:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1",
+            "text": "Given a Binary Tree. Return\u00a01\u00a0if, for every node X\u00a0in the tree other than the\u00a0leaves, its value is equal to the sum of its left subtree's value and its right subtree's value. Else return 0."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
+            "text": "You are given N\u00a0elements\u00a0and your task is to Implement a Stack in which you can get minimum element in O(1) time."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+            "text": "Given a Linked List of size N, where every node represents a sub-linked-list and contains two pointers:\n(i) a next pointer to the next node,\n(ii) a\u00a0bottom\u00a0pointer\u00a0to a linked list where this node is head.\nEach of the\u00a0sub-linked-list is in sorted order.\nFlatten the Link List such that all the nodes appear in a single level while maintaining the sorted order.\u00a0\nNote: The flattened list will be printed using the bottom pointer instead of next pointer."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+            "text": "Given a stack, the task is to sort\u00a0it such that the top of the stack has the greatest\u00a0element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+            "text": "Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0",
+            "text": "The cost of stock on each day is given in an array A[] of size N. Find all the days on which you buy and sell the stock so that in between those days your profit is maximum.\nNote: There may be multiple possible solutions. Return any one of them. Any correct solution will result in an output of 1, whereas wrong solutions will result in an output of 0.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "text": "Suppose you have N eggs and you want to determine from which floor\u00a0in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+            "text": "Given a binary tree, find if it is height balanced or not.\u00a0\nA tree is height balanced if difference between heights of left and right subtrees is not more than one for all nodes of tree.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0",
+            "text": "Given two arrays A and B of equal size N, the task is to find if given arrays are equal or not. Two arrays are said to be equal if both of them contain same set of elements, arrangements (or permutation) of elements may be different though.\nNote :\u00a0If there are repetitions, then counts of repeated elements must also be same for two array to be equal."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            "text": "Implement a Queue using 2 stacks s1 and s2 .\nA Query Q is of 2 Types\n(i) 1 x (a query of this type means\u00a0\u00a0pushing 'x' into the queue)\n(ii) 2 \u00a0 (a query of this type means to pop\u00a0element from queue and print the poped element)"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0",
+            "text": "Given a string str of lowercase ASCII characters, Count the number of\u00a0distinct continuous palindromic sub-strings which are present in the string str."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/two-water-jug-problem/0",
+            "text": "You are at the side of a river. You are given a\u00a0m\u00a0litre jug and a\u00a0n\u00a0litre jug where\u00a00 < m < n. Both the jugs are initially empty. The jugs don\u2019t have markings to allow measuring smaller quantities. You have to use the jugs to measure d litres of water where d < n. Determine the minimum no of operations to be performed to obtain d litres of water in one of jug.\nThe operations you can perform are:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-path/0",
+            "text": "Given a square grid of size N, each cell of which contains integer cost which represents a cost to traverse through that cell, we need to find a path from top left cell to bottom right cell by which the total cost incurred is minimum.\nFrom the cell (i,j) we can go (i,j-1), (i, j+1), (i-1, j), (i+1, j).\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/transpose-of-matrix/0",
+            "text": "Write a program to find the transpose of a square matrix\u00a0of size N*N. Transpose of a matrix is obtained by changing rows to columns and columns to rows.\n\nExample 1:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+            "text": "Given two strings S and P. Find the smallest window in the S consisting of all the characters of P."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0",
+            "text": "Given two n-ary trees.\u00a0Check if they are mirror images of each other or not. You are also given e denoting the number of edges in both trees, and two arrays, A[] and B[].  Each array has\u00a02*e space separated values u,v denoting an edge from u to v for the both trees."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0",
+            "text": "Given a string of characters, find the length of the longest proper prefix which is also a proper suffix."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-difference/0",
+            "text": "Given array A[] of integers, the task is to complete the function findMaxDiff\u00a0which finds the maximum absolute difference between nearest left and right smaller element of every element in array.If the element is the\u00a0leftmost element, nearest smaller element on left side is considered as 0. Similarly if the element is the\u00a0rightmost elements, smaller element on right side is considered as 0."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem/0",
+            "text": "Given a set of N\u00a0nuts of different sizes and N\u00a0bolts of different sizes. There is a one-one mapping between nuts and bolts. Match nuts and bolts efficiently."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0",
+            "text": "There is one meeting room in a firm. There are N meetings in the form of (S[i], F[i]) where S[i]\u00a0is start time of meeting i and F[i] is finish time of meeting i.\nWhat is the maximum number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? Also note start time of one chosen meeting can't be equal to the end time of the other chosen meeting."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/string-formation-from-substring/0",
+            "text": "Given a string \u2018s\u2019, the task is to check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+            "text": "Given two sequences, find the length of longest subsequence present in both of them. Both\u00a0the strings are of uppercase."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-permutation/0",
+            "text": "Implement the next permutation, which rearranges the list of numbers into Lexicographically next greater permutation of list of\u00a0numbers. If such arrangement is not possible, it must be rearranged to the lowest possible order i.e.\u00a0sorted in an ascending order. You are given an list of numbers arr[ ] of size N."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0",
+            "text": "For an integer N\u00a0find the number of trailing zeroes in N!."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "text": "Suppose you have N eggs and you want to determine from which floor\u00a0in a K-floor building you can drop an egg such that it doesn't break. You have to determine the minimum number of attempts you need in order find the critical floor in the worst case while using the best strategy.There are few rules given below.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/fighting-the-darkness/0",
+            "text": "Given an array arr[]\u00a0of size N representing the size of candles which reduce by\u00a01 unit each\u00a0day. The room is illuminated using the given N candles.\u00a0Find the maximum number of days the room is without darkness."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/money-division/0",
+            "text": "Given an array where each element is the money a person have and there is only Rs. 3 note. We need to check whether it is possible to divide the money equally among all the persons or not. If it is possible then find Minimum number of transactions needed.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+            "text": "Given an array of strings, return all groups of strings that are anagrams. The groups must be created in order of their appearance in the original array. Look at the sample case for clarification."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/pangram-strings/0",
+            "text": "Check if the given string S is a Panagram or not. A pangram is a sentence containing every letter in the English Alphabet."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+            "text": "You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Note that we have only one quantity of each item.\nIn other words, given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or don\u2019t pick it (0-1 property)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression/0",
+            "text": "Given an\u00a0array called A[] of sorted integers having no duplicates, find the length of the\u00a0Longest Arithmetic\u00a0Progression (LLAP) in it."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-greater-number-set-digits/0",
+            "text": "Given a number n, find the smallest number that has same set of digits as n and is greater than n.\u00a0If n\u00a0is the greatest possible number with its set of digits, report it."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/number-of-coins/0",
+            "text": "Given a value V and array coins[] of size M, the task is to make the change for V cents, given that you have an infinite supply of each of coins{coins1, coins2, ..., coinsm} valued coins. Find the minimum number of coins to make the change. If not possible to make change then return -1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-if-two-line-segments-intersect/0",
+            "text": "\u00a0Given the coordinates of the endpoints(p1-q1 and p2-q2) of the two line-segments. Check if they intersect or not."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero/0",
+            "text": "Given an integer array\u00a0of N elements. You need to find the maximum sum of two elements such that sum is closest to zero."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+            "text": "Given an expression string x. Examine whether the pairs and the orders of \u201c{\u201c,\u201d}\u201d,\u201d(\u201c,\u201d)\u201d,\u201d[\u201c,\u201d]\u201d are correct in exp.\nFor example, the function should return 'true' for exp = \u201c[()]{}{[()()]()}\u201d and 'false' for exp = \u201c[(])\u201d."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+            "text": "Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have the same width and the width is 1 unit."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0",
+            "text": "You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "text": "Given a grid\u00a0consisting of '0's(Water)\u00a0and '1's(Land). Find the number of islands.\nNote: An\u00a0island\u00a0is surrounded by water and is formed by connecting adjacent lands horizontally or vertically or diagonally i.e., in all 8 directions.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+            "text": "Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-length-of-loop/1",
+            "text": "Given a linked list of size N. The task is to complete the function\u00a0countNodesinLoop()\u00a0that checks whether a given Linked List contains a\u00a0loop or not\u00a0and if the\u00a0loop is present then return the count of nodes in a loop or else return 0. C\u00a0is the position of the node to which the last node is connected. If it is 0 then no loop."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/implement-strstr/1",
+            "text": "Your task is to implement the function strstr. The function takes two strings as\u00a0arguments (s,x) and\u00a0\u00a0locates the occurrence of the string x\u00a0in the string s.\u00a0The function returns and integer denoting the first occurrence of the string x in s (0 based indexing)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+            "text": "Given a\u00a0binary tree\u00a0and two node\u00a0values your task is to find the minimum distance between them."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1",
+            "text": "Given a Binary Search Tree and a node value X. Delete the node with the given value X from the BST. If no node with value x exists, then do not make any change.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            "text": "Given a Binary Tree, print Left view of it. Left view of a Binary Tree is set of nodes visible when tree is visited from Left side. The task is to complete the function leftView(), which accepts root of the tree as argument."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+            "text": "Given two singly linked lists of size N and M, write a program to get the point where two linked lists intersect each other."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            "text": "Given a binary tree. Check whether it is a BST or not.\nNote: We are considering that BSTs can not contain duplicate Nodes."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to check if the\u00a0linked list has a loop. Linked list can contain\u00a0self loop."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-bits/0",
+            "text": "Given a 32 bit number X, reverse its binary form and print the answer in decimal."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-permutation/0",
+            "text": "Implement the next permutation, which rearranges the list of numbers into Lexicographically next greater permutation of list of\u00a0numbers. If such arrangement is not possible, it must be rearranged to the lowest possible order i.e.\u00a0sorted in an ascending order. You are given an list of numbers arr[ ] of size N."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
+            "text": "Given two arrays: a1[0..n-1] of size n and a2[0..m-1] of size m. Task is to check whether a2[] is a subset of a1[] or not. Both the arrays can be sorted or unsorted.\u00a0It may be assumed that elements in both array are distinct.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/set-bits/0",
+            "text": "Given a positive integer N, print count of set bits in it.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-prime-numbers-in-a-range/0",
+            "text": "Given two integers M and N, generate all primes between M and N."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string/0",
+            "text": "Given a String. Reverse each word in it where the words are separated by dots."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+            "text": "Given an input stream of A of n\u00a0characters consisting only of lower case alphabets. The task is to find the first non repeating character, each time a character is inserted to the stream. If there is no such character then append '#' to the answer.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+            "text": "Given an array arr[ ] of size N having distinct elements, the\u00a0task is to find the next greater element for each element of the array in order of their appearance in the array.\r\nNext greater element of an element in the array is the nearest element on the right which is greater than the current element.\r\nIf there does not exist next greater of current element, then next greater element for current element is -1. For example, next greater of the last element is always -1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+            "text": "You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Note that we have only one quantity of each item.\nIn other words, given two integer arrays val[0..N-1] and wt[0..N-1] which represent values and weights associated with N items respectively. Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. You cannot break an item, either pick the complete item or don\u2019t pick it (0-1 property)."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0",
+            "text": "Given an array A of positive integers. Your task is to find the leaders in the array.\u00a0An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
+            "text": "Given an array arr[]\u00a0of N non-negative integers representing the height of blocks. If\u00a0width of each block is 1, compute how much water can be trapped\u00a0between the blocks during the rainy season.\u00a0\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/pattern-searching/0",
+            "text": "Given a string str and a pattern pat. You need to check whether\u00a0pattern is present or not in the given string.\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/implement-atoi/1",
+            "text": "Your task \u00a0is to implement the function atoi. The function takes a string(str) as\u00a0argument and converts it to an integer and returns it."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+            "text": "Given a Binary Tree with all unique values and two nodes value\u00a0n1 and n2. The task is to find the lowest\u00a0common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present.\u00a0 "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
+            "text": "Complete the function to find spiral order traversal of a tree. For below tree, function should return 1, 2, 3, 4, 5, 6, 7.\n\n\n\u00a0\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+            "text": "Given a Linked List of size N, where every node represents a sub-linked-list and contains two pointers:\n(i) a next pointer to the next node,\n(ii) a\u00a0bottom\u00a0pointer\u00a0to a linked list where this node is head.\nEach of the\u00a0sub-linked-list is in sorted order.\nFlatten the Link List such that all the nodes appear in a single level while maintaining the sorted order.\u00a0\nNote: The flattened list will be printed using the bottom pointer instead of next pointer."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+            "text": "Given a singly linked list of N nodes. The task is to find the middle\u00a0of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.\r\nIf there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
+            "text": "Given an array of size\u00a0N-1\u00a0such that it only contains distinct integers in the range of\u00a01\u00a0to N. Find the missing element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "text": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/count-possible-ways-to-construct-buildings/0",
+            "text": "Given N, the number of plots on either sides of the road. Find the total ways to construct buildings in the plots such that there is a space between any 2 buildings. All plots on one side of the road are continuous.\nLets suppose \u2018*\u2019 represents a plot, then for N=3, the plots can be represented as * * * | | * * * \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/unsorted-array/0",
+            "text": "Given an unsorted array of size N. Find the first element in array such that all of its\u00a0left elements are smaller and all right elements to it are greater than it."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+            "text": "Given an input stream of N integers. The task is to insert these numbers into a new stream and find the median of the stream formed by each insertion of X to the new stream."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
+            "text": "Given an array nums[] of size n, construct a Product Array P (of same size n) such that P[i] is equal to the product of all the elements of nums except nums[i]."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams/0",
+            "text": "Given a word pat\u00a0and a text txt. Return the count of the occurences of anagrams of the word in the text."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/maximum-sub-array/0",
+            "text": "Find out the maximum sub-array of non negative numbers from an array."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/binary-array-sorting/0",
+            "text": "Given a binary array A[] of size N. The task is to arrange the array in increasing order.\nNote: The binary array contains only 0\u00a0 and 1.\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+            "text": "Given a stack, the task is to sort\u00a0it such that the top of the stack has the greatest\u00a0element."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "text": "Given a grid\u00a0consisting of '0's(Water)\u00a0and '1's(Land). Find the number of islands.\nNote: An\u00a0island\u00a0is surrounded by water and is formed by connecting adjacent lands horizontally or vertically or diagonally i.e., in all 8 directions.\r\n\u00a0"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
+            "text": "Given an unsorted linked list of N nodes. The task is to remove duplicate\u00a0elements from this\u00a0unsorted Linked List. When a value appears in multiple nodes, the node which appeared first should be kept, all others duplicates are to be removed."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            "text": "Design a data structure that works like a LRU Cache. Here cap\u00a0denotes\u00a0the capacity of the cache and Q denotes the number of queries. Query can be of two types:"
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
+            "text": "Given a binary matrix. Find the maximum area of a rectangle formed only of 1s in the given matrix. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+            "text": "Given a linked list of N nodes. The task is to reverse this list."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1",
+            "text": "Given a singly linked list of size N. The task is to swap elements in the linked list pairwise.\nFor example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.\nNote: You need to swap the nodes, not only the data. If only data is swapped then driver will print -1."
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1",
+            "text": "Given a string consisting of some numbers, not separated by any separator. The numbers are positive integers and the sequence increases by one at each number except the missing number. The task is to complete the function missingNumber which return's the missing number. The numbers will have no more than six\u00a0digits. Print -1 if input sequence is not valid. "
+        },
+        {
+            "link": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+            "text": "Given a connected undirected graph. Perform a Depth First Traversal of the graph.\nNote: Use recursive approach to\u00a0find the DFS traversal of the graph starting from the 0th vertex from left to right according to the graph.."
+        }
+    ]
+}
