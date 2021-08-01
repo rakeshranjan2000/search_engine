@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import string
 import nltk
 from nltk.tokenize import TreebankWordTokenizer
-from request import ques
+from helper import ques
 from nltk.stem.porter import PorterStemmer
 
 STEMMER = PorterStemmer()
