@@ -11,7 +11,13 @@ from nltk.stem.porter import PorterStemmer
 import json
 with open('coding_qustion.json') as file:
     input = json.load(file)
-
+    
+STEMMER = PorterStemmer()
+REMOVE_PUNCTUATION_TABLE = str.maketrans({x: None for x in string.punctuation})
+TOKENIZER = TreebankWordTokenizer()
+def tokenize_and_stem(s):
+    return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
+           
 def ques(query):
     cv=pickle.load(open('converting_matrix.pkl','rb'))
     doc_vectors=pickle.load(open('doc_vectors.pkl','rb'))
