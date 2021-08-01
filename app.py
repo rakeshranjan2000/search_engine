@@ -5,22 +5,15 @@ from sklearn.metrics.pairwise import cosine_similarity
 import string
 import nltk
 from nltk.tokenize import TreebankWordTokenizer
-from helper import ques
+from helper import ques,tokenize_and_stem
 from nltk.stem.porter import PorterStemmer
-
-STEMMER = PorterStemmer()
-REMOVE_PUNCTUATION_TABLE = str.maketrans({x: None for x in string.punctuation})
-TOKENIZER = TreebankWordTokenizer()
-
-           
 
 app = Flask(__name__)
 
 @app.route('/')
 def home():
     return render_template('index.html')
-def tokenize_and_stem(s):
-    return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
+
 
 @app.route('/predict',methods=['POST'])
 def predict():
