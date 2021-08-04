@@ -18,7 +18,9 @@ def home():
 @app.route('/predict',methods=['POST'])
 def predict():
     x=request.form['query']
-    ans=ques(x)
+    cv=pickle.load(open('converting_matrix.pkl','rb'))
+    doc_vectors=pickle.load(open('doc_vectors.pkl','rb'))
+    ans=ques(x,cv,doc_vectors)
     return render_template('index.html', your_list=ans)
 
 if __name__ == "__main__":
