@@ -18,9 +18,9 @@ TOKENIZER = TreebankWordTokenizer()
 def tokenize_and_stem(s):
     return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
            
-def ques(query):
-    cv=pickle.load(open('converting_matrix.pkl','rb'))
-    doc_vectors=pickle.load(open('doc_vectors.pkl','rb'))
+def ques(query,cv,doc_vectors):
+    #cv=pickle.load(open('converting_matrix.pkl','rb'))
+    #doc_vectors=pickle.load(open('doc_vectors.pkl','rb'))
     x=[query]
     query_vector = cv.transform(x)
     similarity = cosine_similarity(query_vector, doc_vectors)
