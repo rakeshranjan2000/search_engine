@@ -7,6 +7,11 @@ import nltk
 from nltk.tokenize import TreebankWordTokenizer
 from helper import ques,tokenize_and_stem
 from nltk.stem.porter import PorterStemmer
+STEMMER = PorterStemmer()
+REMOVE_PUNCTUATION_TABLE = str.maketrans({x: None for x in string.punctuation})
+TOKENIZER = TreebankWordTokenizer()
+def tokenize_and_stem(s):
+    return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
 
 app = Flask(__name__)
 
