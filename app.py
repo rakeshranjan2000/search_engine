@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import string
 import nltk
 from nltk.tokenize import TreebankWordTokenizer
-from helper import ques,tokenize_and_stem
+from helper import ques
 from nltk.stem.porter import PorterStemmer
 STEMMER = PorterStemmer()
 REMOVE_PUNCTUATION_TABLE = str.maketrans({x: None for x in string.punctuation})
