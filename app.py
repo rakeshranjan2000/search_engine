@@ -10,8 +10,7 @@ from nltk.stem.porter import PorterStemmer
 STEMMER = PorterStemmer()
 REMOVE_PUNCTUATION_TABLE = str.maketrans({x: None for x in string.punctuation})
 TOKENIZER = TreebankWordTokenizer()
-def tokenize_and_stem(s):
-    return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
+
 
 app = Flask(__name__)
 
@@ -19,6 +18,8 @@ app = Flask(__name__)
 def home():
     return render_template('index.html')
 
+def tokenize_and_stem(s):
+    return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
 
 @app.route('/predict',methods=['POST'])
 def predict():
