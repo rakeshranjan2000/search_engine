@@ -21,7 +21,7 @@ def home():
 def tokenize_and_stem(s):
     return [STEMMER.stem(t) for t in TOKENIZER.tokenize(s.translate(REMOVE_PUNCTUATION_TABLE))]
 
-@app.route('/predict',methods=['POST'])
+@app.route('/predict','/tokenize_and_stem',methods=['POST'])
 def predict():
     x=request.form['query']
     cv=pickle.load(open('converting_matrix.pkl','rb'))
