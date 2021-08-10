@@ -24,9 +24,14 @@ def tokenize_and_stem(s):
 @app.route('/predict',methods=['POST'])
 def predict():
     x=request.form['query']
-    cv=pickle.load(open('converting_matrix.pkl','rb'))
-    doc_vectors=pickle.load(open('doc_vectors.pkl','rb'))
-    ans=ques(x,cv,doc_vectors)
+    #cv=pickle.load(open('converting_matrix.pkl','rb'))
+    #doc_vectors=pickle.load(open('doc_vectors.pkl','rb'))
+    #ans=ques(x,cv,doc_vectors)
+    ans=[]
+    y={"link":"check",
+       "text":"rakesh"
+      }
+    ans.append(y)
     return render_template('index.html', your_list=ans)
 
 if __name__ == "__main__":
