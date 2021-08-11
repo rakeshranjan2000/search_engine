@@ -10,7 +10,8 @@ from nltk.stem.porter import PorterStemmer
 STEMMER = PorterStemmer()
 REMOVE_PUNCTUATION_TABLE = str.maketrans({x: None for x in string.punctuation})
 TOKENIZER = TreebankWordTokenizer()
-
+from sklearn.feature_extraction.text import TfidfVectorizer
+vectorizer = TfidfVectorizer(tokenizer=tokenize_and_stem, stop_words='english')
 
 app = Flask(__name__)
 def tokenize_and_stem(s):
