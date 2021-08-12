@@ -13,7 +13,7 @@ with open('coding_qustion.json') as file:
     input = json.load(file)
     
 
-def ques(query,cv,doc_vectors):
+def ques(query):
     cv=pickle.load(open('new_converting_matrix.pkl','rb'))
     doc_vectors=pickle.load(open('new_doc_vectors.pkl','rb'))
     x=[query]
